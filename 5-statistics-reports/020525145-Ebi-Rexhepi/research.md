@@ -170,4 +170,20 @@ The future of AI in software engineering is not without significant risk. Severa
 
 8. Interpretation and Discussion
 
+The statistics presented in this report are not just numbers, they tell a story about how a powerful new category of technology is being integrated into one of the world’s most important professions. Several themes emerge from interpreting the data as a whole.
+
+Adoption is driven by utility, not enthusiasm. The fact that AI tool adoption continues to rise (from 70% in 2023 to 80% in 2025) even as developer trust and positive sentiment both decline is a significant finding. It suggests that developers are using these tools not because they are impressed by them, but because they provide genuine practical value even when imperfect. This is actually a sign of maturity: rational adoption based on utility rather than hype.
+
+The scaling gap is the real challenge for organisations. Individual developers can adopt AI tools incrementally and benefit immediately. Organisations face a harder challenge: integrating AI into complex workflows, managing governance and security, retraining staff, and measuring results rigorously. The fact that only 6% of organisations qualify as AI high performers despite near-universal awareness suggests that technology alone is insufficient, leadership, process redesign, and measurement are equally important.
+
+Security is an underappreciated risk. The finding that nearly 30% of AI-generated Python code contains potential security weaknesses is alarming. In a world where AI is generating an increasingly large share of all production code, this implies that security review processes must scale proportionally. Organisations that adopt AI for speed without investing in security review infrastructure may be creating significant technical debt and vulnerability exposure.
+
+The future belongs to teams that redesign workflows. McKinsey’s research is consistent in finding that the highest-performing organisations are not those that spend the most on AI, but those that fundamentally redesign their processes to leverage AI’s strengths. Bolting an AI tool onto an unchanged workflow captures a fraction of the potential value. Rebuilding the workflow around AI capabilities, as the leading companies are doing, is where the large productivity gains are found.
+
 9. Conclusion
+
+AI has moved from the periphery to the centre of software engineering in the space of just two to three years. The statistics from Stack Overflow, GitHub, McKinsey, Deloitte, and Gartner converge on a clear picture: AI tools are now used by the majority of developers globally; they provide measurable speed and quality improvements at the individual level; and they have the potential to generate trillions of dollars in economic value at scale.
+
+At the same time, the data reveals important cautions. Developer trust in AI accuracy is declining even as usage rises. Most organisations have not yet figured out how to capture value from AI at enterprise scale. Security risks in AI-generated code are real and growing. And the most autonomous tier of AI tools, agents, remains far from mainstream adoption.
+
+The overall trajectory, however, is clearly toward deeper and more capable AI integration in software development. The developers and organisations who will benefit most are those who approach AI with critical realism — using tools for what they do well, maintaining rigorous human oversight for high-stakes decisions, investing in governance and security infrastructure, and continuously measuring outcomes rather than simply assuming that adoption leads to value.
